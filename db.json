@@ -2,11 +2,52 @@
   "recommendations": [
     {
       "id": 1,
-      "texto": "Sempre desconfie de todo mundo em as Crônicas de Gelo e Fogo!"
+      "texto": "Sempre desconfie de todo mundo em as 'Crônicas de Gelo e Fogo!'"
     },
     {
       "id": 2,
-      "texto": "Pegue seu machado e venha conquistar a Nortúndria em Crônicas Saxônicas!"
+      "texto": "Pegue seu machado e venha conquistar  Nortúndria em 'Crônicas Saxônicas!'"
+    },
+    {
+      "id": 3,
+      "texto": "Embarque em uma jornada épica com 'O Último Reino' e descubra os segredos vikings!"
+    },
+    {
+      "id": 4,
+      "texto": "Deixe-se envolver pelo mistério e magia de 'Harry Potter', um clássico inesquecível."
+    },
+    {
+      "id": 5,
+      "texto": "Mergulhe no suspense e na intriga de 'O Código Da Vinci' e desafie suas crenças."
+    },
+    {
+      "id": 6,
+      "texto": "Explore universos distópicos e reais em '1984', de George Orwell."
+    },
+    {
+      "id": 7,
+      "texto": "Sinta a emoção e a coragem em 'Jogos Vorazes', uma aventura de sobrevivência intensa."
+    },
+    {
+      "id": 8,
+      "texto": "Reviva a história com 'O Nome da Rosa', um suspense medieval repleto de mistério."
+    },
+    {
+      "id": 9,
+      "texto": "Descubra a profundidade e complexidade dos personagens em 'Orgulho e Preconceito'."
+    },
+    {
+      "id": 10,
+      "texto": "Deixe 'A Menina que Roubava Livros' te transportar por uma narrativa emocionante e comovente."
+    },
+    {
+      "id": 11,
+      "texto": "Aventure-se na Terra Média com 'O Senhor dos Anéis' e viva uma saga lendária."
+    },
+    {
+      "id": 12,
+      "texto": "Desvende os mistérios de 'O Código Da Vinci', um thriller que desafia a mente."
     }
   ]
 }
+
