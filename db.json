@@ -47,7 +47,38 @@
     {
       "id": 12,
       "texto": "Desvende os mistérios de 'O Código Da Vinci', um thriller que desafia a mente."
+    },
+    {
+      "id": 13,
+      "texto": "Conheça a jornada de Santiago em 'O Alquimista' e busque seu próprio tesouro pessoal."
+    },
+    {
+      "id": 14,
+      "texto": "Lute pela liberdade em 'O Conde de Monte Cristo', uma história de vingança e redenção."
+    },
+    {
+      "id": 15,
+      "texto": "Embarque em uma viagem inesquecível com 'A Revolução dos Bichos' e reflita sobre o poder."
+    },
+    {
+      "id": 16,
+      "texto": "Descubra a Terra Média e aventure-se ao lado de Bilbo Bolseiro em 'O Hobbit'."
+    },
+    {
+      "id": 17,
+      "texto": "Entre em um mundo de magia e mistério com 'As Brumas de Avalon', a lenda arturiana sob nova perspectiva."
+    },
+    {
+      "id": 18,
+      "texto": "Sinta a tensão psicológica de 'O Iluminado' e enfrente o terror com Stephen King."
+    },
+    {
+      "id": 19,
+      "texto": "Explore os limites da ciência e moralidade com 'Frankenstein', de Mary Shelley."
+    },
+    {
+      "id": 20,
+      "texto": "Viaje pelo espaço e tempo em 'Duna', uma das maiores sagas de ficção científica de todos os tempos."
     }
   ]
 }
-
